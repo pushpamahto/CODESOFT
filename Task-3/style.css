@@ -100,15 +100,7 @@ span{
     transform: translateX(-50%);
     transition: bottom 1s;
 }
-/* 
-.back-img{
-     mix-blend-mode: multiply; 
-} */
-/* 
-.main-img{
-    mix-blend-mode: multiply;
-    
-}  */
+
 
 .img-box:hover .back-img{
     bottom: 40px;
